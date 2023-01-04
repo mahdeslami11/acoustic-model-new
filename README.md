@@ -178,3 +178,77 @@ If you found this work helpful please consider citing our paper:
     year={2022}
 }
 ```
+
+
+
+[] Hirokazu Kameoka, Takuhiro Kaneko, Kou Tanaka, and Nobukatsu Hojo, “Stargan-vc: Non-parallel many-tomany voice conversion using star generative adversarial networks,” in SLT, 2018.
+
+idea ====> By using the parallel method, it is possible to identify each person's voice completely separately in a conversation two by two.
+
+
+[] Adam Polyak et al., “Speech resynthesis from discrete disentangled self-supervised representations,” in Interspeech, 2021.
+
+idea ====> The system automatically combines multiple conversations and uses artificial intelligence to obtain a unique output from the combination of multiple conversations.
+
+
+[] Aaron van den Oord, Yazhe Li, and Oriol Vinyals, “Representation learning with contrastive predictive coding,” arXiv preprint arXiv:1807.03748, 2018.
+[] Tu Anh Nguyen et al., “The zero resource speech benchmark 2021: Metrics and baselines for unsupervised spoken language modeling,” in NeurIPS SAS Workshop,
+2020.
+
+idea ====> An artificial intelligence that has the ability to convert words, images and 3D text to each other.
+
+
+[20] Julian Za¨ıdi, Hugo Seute, Benjamin van Niekerk, and ´Marc-Andre Carbonneau, “Daft-exprt: Robust prosody ´transfer across speakers for expressive speech synthesis,” arXiv preprint arXiv:2108.02271, 2021.
+
+idea ====> The speaker (tone) can distinguish between strong and weak sound. Make the louder text bigger and the weaker text thinner.
+Recognize different sounds that have different wavelengths in a speech.
+
+[] Tomoki Toda, Alan W Black, and Keiichi Tokuda, “Voice conversion based on maximum-likelihood estimation of spectral parameter trajectory,” TASLP, vol. 15, no. 8,
+2007.
+
+[] Kou Tanaka, Hirokazu Kameoka, Takuhiro Kaneko, and Nobukatsu Hojo, “Atts2s-VC: Sequence-to-sequence voice conversion with attention and context preservation mechanisms,” in ICASSP, 2019.
+
+
+[] Lifa Sun, Kun Li, Hao Wang, Shiyin Kang, and Helen Meng, “Phonetic posteriorgrams for many-to-one voice conversion without parallel data training,” in ICME, 2016.
+
+
+[] Wen-Chin Huang, Tomoki Hayashi, Shinji Watanabe, and Tomoki Toda, “The Sequence-to-Sequence Baseline for the Voice Conversion Challenge 2020: Cascading ASR and TTS,” in Interspeech BC/VCC workshop, 2020.
+
+
+[] Hirokazu Kameoka, Takuhiro Kaneko, Kou Tanaka, and Nobukatsu Hojo, “Stargan-vc: Non-parallel many-tomany voice conversion using star generative adversarial networks,” in SLT, 2018.
+
+
+[] Kaizhi Qian, Yang Zhang, Shiyu Chang, Xuesong Yang, and Mark Hasegawa-Johnson, “AutoVC: Zero-shot voice style transfer with only autoencoder loss,” in ICML, 2019.
+
+
+[] Yi Zhao et al., “Voice conversion challenge 2020: Intralingual semi-parallel and cross-lingual voice conversion,” in Interspeech BC/VCC workshop, 2020.
+
+
+[] Adam Polyak et al., “Speech resynthesis from discrete disentangled self-supervised representations,” in Interspeech, 2021.
+
+
+[] Benjamin van Niekerk, Leanne Nortje, and Herman Kamper, “Vector-quantized neural networks for acoustic unit discovery in the zerospeech 2020 challenge,” in Interspeech, 2020.
+
+
+[] Wen-Chin Huang, Yi-Chiao Wu, and Tomoki Hayashi, “Any-to-one sequence-to-sequence voice conversion using self-supervised discrete speech representations,” in
+ICASSP, 2021.
+
+
+[] Wei-Ning Hsu et al., “Hubert: Self-supervised speech representation learning by masked prediction of hidden units,” arXiv preprint arXiv:2106.07447, 2021.
+
+
+[] Jan van Gemert, Cor J. Veenman, Arnold W. M. Smeulders, and Jan-Mark Geusebroek, “Visual Word Ambiguity,” TPAMI, vol. 32, no. 7, 2010.
+
+
+[] Tu Anh Nguyen et al., “The zero resource speech benchmark 2021: Metrics and baselines for unsupervised spoken language modeling,” in NeurIPS SAS Workshop,
+2020.
+
+
+[] Benjamin van Niekerk, Leanne Nortje, Matthew Baas, and Herman Kamper, “Analyzing speaker information in self-supervised models to improve zero-resource speech
+processing,” in Interspeech, 2021.
+
+
+[] Shu wen Yang et al., “Superb: Speech processing universal performance benchmark,” in Interspeech, 2021.
+
+
+vahid  sepehrian       oloom tahghighat     40012340048013
